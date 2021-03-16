@@ -2,7 +2,7 @@
 
 You have reached this profile through my CV.
 
-😄 So a fun fact: my name is pronounced Eliseos.
+😄 Probably useful information: my name is pronounced Eliseos.
 <!--
 **ceidas/ceidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
