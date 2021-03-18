@@ -1,4 +1,4 @@
-<h3 align="center"><samp>< Hi there 👋 </h2>
+<h3 align="center"><samp> Hi there 👋 </h2>
 
 <p align="center"><samp> You have reached this profile through my CV.</p>
 
