@@ -5,7 +5,7 @@
 <p align="center"><samp> 😄 Probably useful information: my name is pronounced Eliseos. </p>
 
 <br>
-<p align="center"> <img width="650" height="400" src="preview.gif"> </p>
+<p align="center"> <img width="650" height="400" src="icons/workstation.gif"> </p>
 <br />
 
 <p align="center">
