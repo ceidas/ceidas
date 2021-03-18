@@ -1,8 +1,8 @@
-<h3 align="center"> Hi there 👋 </h2>
+<h3 align="center"><samp>< Hi there 👋 </h2>
 
-<p align="center"> You have reached this profile through my CV.</p>
+<p align="center"><samp> You have reached this profile through my CV.</p>
 
-<p align="center"> 😄 Probably useful information: my name is pronounced Eliseos. </p>
+<p align="center"><samp> 😄 Probably useful information: my name is pronounced Eliseos. </p>
 
 <br>
 <p align="center"> <img width="650" height="400" src="preview.gif"> </p>
@@ -16,7 +16,7 @@
 <hr>
 
 <details>
-    <summary>Click for GitHub Stats</summary>
+    <summary><samp>Click for GitHub Stats</summary>
     <!-- GitHub stats -->
    <b><samp>⚡Note:</b> This does not represent my programming language skills. It is just what I have used most on Github
     <p align="center">
