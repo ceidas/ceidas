@@ -18,18 +18,21 @@
 <details>
     <summary>Click for GitHub Stats</summary>
     <!-- GitHub stats -->
-    <b><samp>⚡__Note__: This does not represent my programming language skills. It is just what I have used most on Github</b>
-    <p>
+   <b><samp>⚡Note:</b> This does not represent my programming language skills. It is just what I have used most on Github
+    <p align="center">
         <!-- GitHub Stats -->
-        <img align="center" height="180em"
+        <img align="center" height="160em"
             src="https://github-readme-stats.vercel.app/api?username=ceidas&show_icons=true&hide=issues&hide_border=true&icon_color=2342122E&"
             alt="GitHub Stats" />
         <!-- Most Used Languages -->
-        <img align="center" height="180em"
+        <img align="center" height="160em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceidas&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&"
             alt="Top languages" />
-      <a> <img src="https://komarev.com/ghpvc/?username=ceidas&style=flat-square" alt="profile views from connected accounts" /> </a>
     </p>
+    <p align="right">
+       <a> <img src="https://komarev.com/ghpvc/?username=ceidas&style=flat-square" alt="profile views from connected accounts" /> </a>
+    </P>
+       
 </details>
 
 <hr>
