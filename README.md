@@ -9,8 +9,7 @@
 <br />
 
 <p align="center">
-   <samp>Reach me on: <a href="https://linkedin.com/in/ptelisos" target="blank"> <img src="linkedin.svg"
-            alt="linkedin.com/in/ptelisos" width="22px" /></a>
+   <samp>Reach me on: <a href="https://linkedin.com/in/ptelisos" > linkedin.com/in/ptelisos </a>
 </p>
 
 <hr>
